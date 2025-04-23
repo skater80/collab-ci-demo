@@ -43,11 +43,6 @@ This is a **Simple Calculator** web application built using **HTML**, **CSS**, a
 4. Click `=` to compute the result.
 5. Click `Clear` to reset the calculator.
 
-## Screenshots
-
-![Calculator Screenshot](screenshot.png)  
-*Example of the calculator interface*
-
 ## License
 
 This project is open source and free to use.
