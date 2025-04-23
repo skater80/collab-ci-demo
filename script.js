@@ -57,3 +57,16 @@ function clearDisplay() {
 function updateDisplay() {
   display.value = currentOperand;
 }
+function deleteLast() {
+  if (currentOperand !== '') {
+    currentOperand = currentOperand.slice(0, -1);
+    updateDisplay();
+  }
+}
+
+function deleteLast() {
+    if (currentOperand !== '') {
+      currentOperand = currentOperand.slice(0, -1);
+      updateDisplay();
+    }
+  }  
